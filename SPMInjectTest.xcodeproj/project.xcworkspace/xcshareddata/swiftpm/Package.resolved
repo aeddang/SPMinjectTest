@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "2231f92b5af71c78ad2c1450e583bf4a8713b951",
+        "version" : "7.3.1"
+      }
+    },
+    {
+      "identity" : "libwebp-xcode",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/libwebp-Xcode.git",
+      "state" : {
+        "revision" : "0f3bdb28a1edc5e8e43876d3835d20c601ef331f",
+        "version" : "1.2.3"
+      }
+    },
+    {
+      "identity" : "mytvlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://bitbucket.skbroadband.com/scm/mytv_ios/mytvlibrary.git",
+      "state" : {
+        "branch" : "dev",
+        "revision" : "db9e111304f4b206791b9b59fbdaea40e834d277"
+      }
+    },
+    {
+      "identity" : "reachability.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ashleymills/Reachability.swift",
+      "state" : {
+        "revision" : "c01bbdf2d633cf049ae1ed1a68a2020a8bda32e2",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "3e48cb68d8e668d146dc59c73fb98cb628616236",
+        "version" : "5.13.2"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "revision" : "cd8625b7cf11a97698e180d28bb7d5d357196678",
+        "version" : "2.0.2"
+      }
+    },
+    {
+      "identity" : "sdwebimagewebpcoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageWebPCoder.git",
+      "state" : {
+        "revision" : "8a0c5e1ae08ed763739262b9dcef64cfb241c14b",
+        "version" : "0.9.0"
+      }
+    },
+    {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "revision" : "4d543d811ee644fa4cc4bfa0be996b4dd6ba0f54",
+        "version" : "0.13.3"
+      }
+    }
+  ],
+  "version" : 2
+}
